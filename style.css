@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+}
+
+
+
+#enter_add {
+    color: #FFFFFF;
+    width: 1241px;
+    height: 160px;
+    top: 1818px;
+    left: 72px;
+
+}
+
+#address {
+    width: 779px;
+    height: 32px;
+    top: 1978px;
+    left: 78px;
+    border: 1px;
+
+    width: 369.43px;
+    height: 29px;
+    top: 1999px;
+    left: 92.96px;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+
+}
